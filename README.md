@@ -7,5 +7,11 @@
  - COntrolled Component
  - UnControlled component 
 
-# React + Vite
+# React Router 
+- react-router-dom v6
+- <BrowserRouter>, <Routes>, <Route>
+- useNavigate, useParams, useLocation
+
+# Global State Management
+
 
